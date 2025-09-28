@@ -9,7 +9,7 @@ export default defineConfig({
   plugins: [react(),tagger()],
   base: process.env.BASE_URL || '/',
   build: {
-    outDir: "build",
+    outDir: "dist",
   },
   resolve: {
     alias: {
