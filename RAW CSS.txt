@@ -1,0 +1,324 @@
+/* Rectangle 6 */
+
+position: absolute;
+width: 360px;
+height: 800px;
+left: 0px;
+top: 0px;
+
+background: rgba(217, 217, 217, 0.02);
+
+
+/* Me logo */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 24px;
+top: 744px;
+
+background: url(Yellow Minimalist Podcast Logo.png);
+border-radius: 50px;
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 312px;
+height: 48px;
+left: 24px;
+top: 628px;
+
+background: rgba(255, 255, 255, 0.02);
+border: 1px solid rgba(0, 0, 0, 0.4);
+border-radius: 10px;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 312px;
+height: 48px;
+left: 23px;
+top: 557px;
+
+background: #1877F2;
+border-radius: 10px;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 312px;
+height: 48px;
+left: 24px;
+top: 411px;
+
+background: #0E64D2;
+border-radius: 5px;
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 312px;
+height: 48px;
+left: 24px;
+top: 310px;
+
+background: rgba(255, 255, 255, 0.08);
+border: 1px solid rgba(0, 0, 0, 0.4);
+border-radius: 10px;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 312px;
+height: 48px;
+left: 24px;
+top: 234px;
+
+background: rgba(255, 255, 255, 0.08);
+border: 1px solid rgba(0, 0, 0, 0.4);
+border-radius: 10px;
+
+
+/* Login with Google */
+
+position: absolute;
+width: 126px;
+height: 21px;
+left: 118px;
+top: 641px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.6);
+
+
+
+/* Login with Facebook */
+
+position: absolute;
+width: 145px;
+height: 21px;
+left: 115px;
+top: 570px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+color: rgba(255, 255, 255, 0.9);
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 139px;
+height: 0px;
+left: 23px;
+top: 524px;
+
+border: 1px solid rgba(0, 0, 0, 0.5);
+
+
+/* Line 1 */
+
+position: absolute;
+width: 139px;
+height: 0px;
+left: 195px;
+top: 524px;
+
+border: 1px solid rgba(0, 0, 0, 0.5);
+
+
+/* Or */
+
+position: absolute;
+width: 17px;
+height: 21px;
+left: 171px;
+top: 513px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.8);
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 229px;
+height: 21px;
+left: 66px;
+top: 475px;
+
+
+
+/* Button Login */
+
+position: absolute;
+width: 38px;
+height: 21px;
+left: 161px;
+top: 424px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+color: rgba(255, 255, 255, 0.9);
+
+
+
+/* Forgot Password? */
+
+position: absolute;
+width: 125px;
+height: 21px;
+left: 117px;
+top: 370px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+color: #2F89FC;
+
+
+
+/* Enter Your Password */
+
+position: absolute;
+width: 122px;
+height: 18px;
+left: 28px;
+top: 326px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.7);
+
+
+
+/* Enter Your Username / Email */
+
+position: absolute;
+width: 170px;
+height: 18px;
+left: 28px;
+top: 249px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.7);
+
+
+
+/* Banner Login Welcome back! */
+
+position: absolute;
+width: 194px;
+height: 72px;
+left: 82px;
+top: 119px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: rgba(0, 0, 0, 0.8);
+
+
+
+/* google logo */
+
+position: absolute;
+width: 26px;
+height: 26px;
+left: 32px;
+top: 639px;
+
+background: url(google);
+
+
+/* facebook logo */
+
+position: absolute;
+width: 26px;
+height: 26px;
+left: 32px;
+top: 564px;
+
+background: url(facebook.png);
+
+
+/* eye_password  */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 295px;
+top: 323px;
+
+background: url(eye_password.png);
+
+
+/* It’s Me Vinsensius Sugito Lein */
+
+position: absolute;
+width: 138px;
+height: 36px;
+left: 78px;
+top: 750px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 18px;
+
+color: #000000;
+
+opacity: 0.5;
